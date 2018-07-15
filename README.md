@@ -7,10 +7,10 @@ This is a tensorflow re-implementation of [Learning Deep CNN Denoiser Prior for 
 2. opencv-python 
 ***
 # Model Architecture
-![image_1](Image/image_1.png)
+![image_1](Image/image_2.png)
 
 # Training Loss
-![image_2](Image/image_2.png)
+![image_2](Image/image_1.png)
 ***
 # Results
 Sigma = 25
